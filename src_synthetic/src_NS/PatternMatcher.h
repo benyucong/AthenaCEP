@@ -6,6 +6,7 @@
 #include <functional>
 #include <map>
 #include <unordered_map>
+#include <string>
 
 typedef int64_t attr_t;
 
