@@ -1,0 +1,131 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++14",
+      "-O3",
+      "-mavx2",
+      "-c",
+      "-o",
+      "PatternMatcher.o",
+      "PatternMatcher.cpp"
+    ],
+    "directory": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS",
+    "file": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS/PatternMatcher.cpp",
+    "output": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS/PatternMatcher.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++14",
+      "-O3",
+      "-mavx2",
+      "-c",
+      "-o",
+      "Query.o",
+      "Query.cpp"
+    ],
+    "directory": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS",
+    "file": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS/Query.cpp",
+    "output": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS/Query.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++14",
+      "-O3",
+      "-mavx2",
+      "-c",
+      "-o",
+      "_shared/PredicateMiner.o",
+      "_shared/PredicateMiner.cpp"
+    ],
+    "directory": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS",
+    "file": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS/_shared/PredicateMiner.cpp",
+    "output": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS/_shared/PredicateMiner.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++14",
+      "-O3",
+      "-mavx2",
+      "-c",
+      "-o",
+      "_shared/MurmurHash3.o",
+      "_shared/MurmurHash3.cpp"
+    ],
+    "directory": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS",
+    "file": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS/_shared/MurmurHash3.cpp",
+    "output": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS/_shared/MurmurHash3.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++14",
+      "-O3",
+      "-mavx2",
+      "-c",
+      "-o",
+      "_shared/MonitorThread.o",
+      "_shared/MonitorThread.cpp"
+    ],
+    "directory": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS",
+    "file": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS/_shared/MonitorThread.cpp",
+    "output": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS/_shared/MonitorThread.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-o",
+      "freegetopt/getopt.o",
+      "freegetopt/getopt.c"
+    ],
+    "directory": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS",
+    "file": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS/freegetopt/getopt.c",
+    "output": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS/freegetopt/getopt.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-o",
+      "lex.yy.o",
+      "lex.yy.c"
+    ],
+    "directory": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS",
+    "file": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS/lex.yy.c",
+    "output": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS/lex.yy.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++14",
+      "-O3",
+      "-mavx2",
+      "-c",
+      "-o",
+      "NormalDistGenChangePattern.o",
+      "NormalDistGenChangePattern.cpp"
+    ],
+    "directory": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS",
+    "file": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS/NormalDistGenChangePattern.cpp",
+    "output": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS/NormalDistGenChangePattern.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++14",
+      "-O3",
+      "-mavx2",
+      "-c",
+      "-o",
+      "cep_match/cep_match.o",
+      "cep_match/cep_match.cpp"
+    ],
+    "directory": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS",
+    "file": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS/cep_match/cep_match.cpp",
+    "output": "/home/benyucong/labs/AthenaCEP/src_synthetic/src_NS/cep_match/cep_match.o"
+  }
+]

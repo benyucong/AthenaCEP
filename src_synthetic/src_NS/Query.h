@@ -38,20 +38,18 @@ struct Query
 		uint32_t event;
 		uint32_t attr;
 		uint32_t index;
-	};
+        };
 
-	struct Aggregation
-	{
-		std::string	function;
-		std::pair<uint32_t, uint32_t> source;
+        struct Aggregation {
+                std::string function;
+                std::pair<uint32_t, uint32_t> source;
 
-		bool operator == (const Aggregation& _o) const
-		{
-			return function == _o.function && source == _o.source;
-		}
-	};
+                bool operator==(const Aggregation &_o) const {
+                        return function == _o.function && source == _o.source;
+                }
+        };
 
-	struct Event
+        struct Event
 	{
 		std::string	type;
 		std::string	name;
